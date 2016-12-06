@@ -30,3 +30,5 @@ Each row in this dataset represents an insurance claim. You must predict the val
        'cont10', 'cont11', 'cont12', 'cont13', 'cont14', 'loss']
 }
 ```
+
+After encoding the categorical features, the total number of features are 1145
